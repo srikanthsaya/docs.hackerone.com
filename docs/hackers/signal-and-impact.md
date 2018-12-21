@@ -18,6 +18,6 @@ Are there any caveats to calculations? | <li>Only calculated when there are more
 ### Calculation Example
 ![calculation of signal and impact](./images/signal-impact-2.png)
 
-Alice and Bob have the exact same amount of Reputation (241 points). But Alice has a higher Signal (4.12 > 1.35), which indicates having a better track record of submitting valid reports. Alice also has a higher Impact (15.83 > 9.50) and therefore, a higher chance of submitting an important report.
+Alice and Bob have the exact same amount of Reputation (241 points). But Alice has a higher Signal (4.12 > 1.35), which indicates having a better track record of submitting valid reports. Alice also has a higher Impact (15.83 > 9.50) and therefore, a higher chance of submitting an important reports.
 
 This is valuable information for both of them. Alice will see that she is doing quite well with her current trajectory, while Bob will see that others are more accurate about their reports and can adjust his reporting processes accordingly.
